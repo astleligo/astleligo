@@ -48,12 +48,12 @@ Full-stack developer focused on building clean interfaces, efficient APIs, and r
 ---
 
 ## 🔗 Connect With Me  
-[![Portfolio](https://img.icons8.com/color/48/domain.png)](https://astle-ligo.github.io/astle-portfolio)
+[![Portfolio](https://img.icons8.com/color/48/domain.png)](https://astleligo.github.io/)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/astle-ligo/)
 &nbsp;&nbsp;
 [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/astle.dev/)
 &nbsp;&nbsp;
-[![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com/Astle-Ligo)
+[![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com/astleligo)
 &nbsp;&nbsp;
 [![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png)](https://leetcode.com/u/Astle-Ligo/)
